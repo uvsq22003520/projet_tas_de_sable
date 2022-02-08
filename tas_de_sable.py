@@ -3,4 +3,4 @@
 # Ines MATOUK
 # Khayri BUSIN
 # Benjamin TAVARES LEVY
-# https://github.com/uvsq22003520/projet_tas_de_sable/new/main
+# https://github.com/uvsq22003520/projet_tas_de_sable
