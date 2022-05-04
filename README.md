@@ -1,4 +1,4 @@
-# projet_tas_de_sable
+# projet_taquin
 # groupe BI TD3
 # Samuel DE OLIVEIRA
 # Ines MATOUK
